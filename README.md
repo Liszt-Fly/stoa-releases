@@ -2,6 +2,15 @@
 
 This repository hosts public release artifacts for `stoa`.
 
+## Name
+
+`stoa` comes from the Ancient Greek word `στοά`, meaning a covered walkway,
+porch, or colonnade.
+
+In ancient Greek cities, a stoa was a public place for walking, meeting,
+discussing, and thinking. This project borrows the idea as a quiet terminal
+space for moving through files and reviewing code changes.
+
 ## Install
 
 ### macOS and Linux
